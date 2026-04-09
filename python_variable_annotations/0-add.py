@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
 """
-this module provides a type-annoted fuction to add two floats.
+This module provides a type-annotated function to add two floats.
 """
-def add(a: flaot, b: float) ->  float:
+
+
+def add(a: float, b: float) -> float:
     """
-    summs two float  numbers and returns the result.
+    Sum two floating-point numbers and return the result as a float.
     """
     return a + b
