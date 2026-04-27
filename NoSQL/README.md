@@ -9,7 +9,7 @@ Ce projet introduit les concepts des bases de données NoSQL, en se concentrant 
 * Savoir interroger, insérer, mettre à jour et supprimer des informations dans MongoDB.
 * Utiliser PyMongo pour interagir avec MongoDB depuis Python.
 
-## Environnement
+##  Environnement
 * OS: Ubuntu 20.04 LTS / 22.04 LTS
 * Base de données: MongoDB 4.4
 * Langage: Python 3.9
